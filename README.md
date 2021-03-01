@@ -4,7 +4,8 @@
 
 ### 1、文件目录介绍（由上到下）
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2b34d07d-a0e4-4c06-b2a2-035fc0def8bd/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2b34d07d-a0e4-4c06-b2a2-035fc0def8bd/Untitled.png)
+![image](https://user-images.githubusercontent.com/32013741/109455487-b6c2d300-7a91-11eb-9481-71c3e37cf1b7.png)
+
 
 src文件夹里面主要放后端的相关代码，包括两个部分：Controller和Model。
 
@@ -18,7 +19,8 @@ web文件夹是放的项目的配置和前端代码
 
 ### 2、代码整体逻辑
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e2719bdb-f5be-4a8a-b1fe-49940613b9b1/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e2719bdb-f5be-4a8a-b1fe-49940613b9b1/Untitled.png)
+![image](https://user-images.githubusercontent.com/32013741/109455517-cb9f6680-7a91-11eb-8907-6b72090e1789.png)
+
 
 ### 3、代码细节介绍
 
